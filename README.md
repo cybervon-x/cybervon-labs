@@ -13,9 +13,9 @@ Lab repository documenting hands on practice, tools, scripts, and notes.
 - Real-world lab environments
 
 ## 📂 Repository Structure
-tools/              # Reviewed tools
-scripts/            # Bash, Python, PowerShell automation
-notes/              # Technical notes 
+- tools/              # Reviewed tools
+- scripts/            # Bash, Python, PowerShell automation
+- notes/              # Technical notes 
 
 ## 🛠️ Skills & Tools
 - **Operating Systems:** Kali Linux, Windows
